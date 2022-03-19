@@ -26,7 +26,8 @@ object ComplexDataProcessing {
 
     import spark.implicits._
     println("====JSON ComplexDataProcessing =====> Multiline =====")
-    /*val df = spark.read.format("json").option("multiline", "true").load("file:///D:/data/zeyoc.json")
+
+    val df = spark.read.format("json").option("multiline", "true").load("file:///D:/data/zeyoc.json")
     df.show()
     df.printSchema()
     val flattendf = df.select(
@@ -44,7 +45,7 @@ df1.show()
 df1.printSchema()
 
     println("===JSON ComplexDataProcessing ==> StructType===")
-    val flattendf1 = df1.select(
+    val flattendf2 = df1.select(
       col("id"),
       col("image.height").as("iheight"),
       col("image.url").as("iurl"),
@@ -56,40 +57,41 @@ df1.printSchema()
       col("type")
       )
 
-    flattendf1.show()
-    flattendf1.printSchema()
+    flattendf2.show()
+    flattendf2.printSchema()
 
-    val df = spark.read.format("json").option("multiline","true").load("file:///D:/data/zeyoc.json")
+    val df3 = spark.read.format("json").option("multiline","true").load("file:///D:/data/zeyoc.json")
 
     df.show()
     df.printSchema()
-  val flattendf = df.select(
+
+    val flattendf3 = df.select(
     "address.*",
     "orgname",
     "trainer"
   )
-   flattendf.show()
-    flattendf.printSchema()
+   flattendf3.show()
+    flattendf3.printSchema()
 
-    val df1 = spark.read.format("json").option("multiline","true").load("file:///D:/data/place.json")
-      df1.show()
-    df1.printSchema()
+    val df4 = spark.read.format("json").option("multiline","true").load("file:///D:/data/place.json")
+      df4.show()
+    df4.printSchema()
 
-    val flattendf1 = df1.select(
+    val flattendf4 = df1.select(
       col("place"),
       col("user.address.*"),
       col("user.name")
     )
-    flattendf1.show()
-    flattendf1.printSchema()*/
+    flattendf4.show()
+    flattendf4.printSchema()
 
-    val df2 = spark.read.format("json").option("multiline","true").load("file:///D:/data/topping.json")
+    val df5 = spark.read.format("json").option("multiline","true").load("file:///D:/data/topping.json")
 
-    df2.show()
+    df5.show()
 
-    df2.printSchema()
+    df5.printSchema()
 
-    val flattendf2 = df2.select(
+    val flattendf5 = df5.select(
       col("id"),
       col("name"),
       col("ppu"),
@@ -99,8 +101,8 @@ df1.printSchema()
       col("topping.type").as("t.type"),
       col("type")
     )
-    flattendf2.show()
-    flattendf2.printSchema()
+    flattendf5.show()
+    flattendf5.printSchema()
 
   }
 
