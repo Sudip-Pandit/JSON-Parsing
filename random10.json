@@ -1,0 +1,337 @@
+{
+    "results": [
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "carole",
+                    "last": "fox"
+                },
+                "location": {
+                    "street": "3772 wheeler ridge dr",
+                    "city": "daly city",
+                    "state": "oklahoma",
+                    "zip": 57372
+                },
+                "email": "carole.fox@example.com",
+                "username": "beautifulsnake776",
+                "password": "peters",
+                "salt": "9K6xpXcQ",
+                "md5": "216396e89f20cf160abe02a9373434a6",
+                "sha1": "d084de2eae89f1bbf5c0caf17beca00b9745edb4",
+                "sha256": "47356db0d4ab960c017870607837662cf8e4618eb5acfc9a606a0fb1e1d89c43",
+                "registered": 1148115188,
+                "dob": 1277768570,
+                "phone": "(687)-851-4645",
+                "cell": "(007)-783-5736",
+                "SSN": "320-70-9089",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/13.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "brianna",
+                    "last": "bailey"
+                },
+                "location": {
+                    "street": "4704 karen dr",
+                    "city": "berkeley",
+                    "state": "minnesota",
+                    "zip": 20982
+                },
+                "email": "brianna.bailey@example.com",
+                "username": "greenbutterfly310",
+                "password": "bong",
+                "salt": "uMTzhJIS",
+                "md5": "e34b5dea49b2443d374e18453b98026c",
+                "sha1": "0da11ad7be259ff936feb1563dfbb38d086fedf5",
+                "sha256": "393c5ad5053e09ee12402ff570ba2b963120a755d3a14454524ead4bfd284c48",
+                "registered": 1355986592,
+                "dob": 373560428,
+                "phone": "(357)-731-1626",
+                "cell": "(135)-762-3402",
+                "SSN": "485-92-5382",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/37.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "herbert",
+                    "last": "hunter"
+                },
+                "location": {
+                    "street": "8434 edwards rd",
+                    "city": "forney",
+                    "state": "colorado",
+                    "zip": 45326
+                },
+                "email": "herbert.hunter@example.com",
+                "username": "goldendog670",
+                "password": "magic1",
+                "salt": "Nqgmcn9i",
+                "md5": "3702f368c634197ac06244bd590e2ad3",
+                "sha1": "a294d085c91c6b05cf38644963986e581a2a1873",
+                "sha256": "03bd61be864c32f9afb1cc75d9e2f77c07e777d731cdd7ef56b4e9f4bd7187c0",
+                "registered": 1416139152,
+                "dob": 854331945,
+                "phone": "(486)-655-8080",
+                "cell": "(001)-134-4483",
+                "SSN": "792-78-2234",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/76.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "claude",
+                    "last": "arnold"
+                },
+                "location": {
+                    "street": "2396 hogan st",
+                    "city": "ennis",
+                    "state": "wyoming",
+                    "zip": 32932
+                },
+                "email": "claude.arnold@example.com",
+                "username": "yellowswan136",
+                "password": "farley",
+                "salt": "SwX0QJFS",
+                "md5": "b34099887f811df33737dd01d5f3c56d",
+                "sha1": "21c1c581f8b2618396f084e5d5bbf57095be350a",
+                "sha256": "99bded111f3951c44e36d68128dbe8bd53677303df44a128308f17ed587d9642",
+                "registered": 967065781,
+                "dob": 267024214,
+                "phone": "(256)-273-4617",
+                "cell": "(626)-354-7499",
+                "SSN": "699-82-3737",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/40.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "vickie",
+                    "last": "george"
+                },
+                "location": {
+                    "street": "6024 fincher rd",
+                    "city": "kent",
+                    "state": "delaware",
+                    "zip": 42270
+                },
+                "email": "vickie.george@example.com",
+                "username": "goldenpanda357",
+                "password": "graphics",
+                "salt": "uvMziZpu",
+                "md5": "37fd5fa6f99d0b21ab7eefd8639923de",
+                "sha1": "60d754c46094b193258ed778324ed22e85247be0",
+                "sha256": "7727e8e7d5c0167dce8532e1b308728920b39036c719cfc53ebd82d128c8b315",
+                "registered": 1371221136,
+                "dob": 1026960246,
+                "phone": "(897)-367-3718",
+                "cell": "(132)-584-6882",
+                "SSN": "402-90-7179",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/56.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "elaine",
+                    "last": "black"
+                },
+                "location": {
+                    "street": "1072 e north st",
+                    "city": "nashville",
+                    "state": "arizona",
+                    "zip": 46207
+                },
+                "email": "elaine.black@example.com",
+                "username": "yellowpeacock104",
+                "password": "betty",
+                "salt": "nGZoM2yn",
+                "md5": "5692e758518c8b4f5b6932d14c630c36",
+                "sha1": "626a58b51efa001728573286da6eda9ecb94780f",
+                "sha256": "d86d358aac36721a46cbbd161d1ede69c555137251fce44f93d99aea1f6315fb",
+                "registered": 1261178730,
+                "dob": 818828630,
+                "phone": "(865)-556-8824",
+                "cell": "(762)-637-1777",
+                "SSN": "626-27-1831",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/50.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "thomas",
+                    "last": "alexander"
+                },
+                "location": {
+                    "street": "3431 marsh ln",
+                    "city": "saginaw",
+                    "state": "alaska",
+                    "zip": 13742
+                },
+                "email": "thomas.alexander@example.com",
+                "username": "purpleduck465",
+                "password": "barney",
+                "salt": "4yOa6u2E",
+                "md5": "8edfa911e22a6cb702e97e96ed6233dd",
+                "sha1": "4d0c9e79ba0372cef440441f8edef6c62a833010",
+                "sha256": "c6f88127240d8266c75f3f87efe493117db3a58aaa12b49a9c31c500971170cb",
+                "registered": 1115361433,
+                "dob": 364869305,
+                "phone": "(047)-002-4661",
+                "cell": "(928)-222-5273",
+                "SSN": "191-30-3834",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/43.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "jar",
+                    "last": "fleming"
+                },
+                "location": {
+                    "street": "8392 wheeler ridge dr",
+                    "city": "chula vista",
+                    "state": "oklahoma",
+                    "zip": 19355
+                },
+                "email": "jar.fleming@example.com",
+                "username": "organicfrog122",
+                "password": "ceasar",
+                "salt": "gZfrl3El",
+                "md5": "627eead1f0aac66652b28c1d58ed2483",
+                "sha1": "d403de0984cb481ed0e85351861120ccff68a622",
+                "sha256": "c5c9bf0ec81923e43a01f88b067cbe175f6dacf4787d1a327c993989b02491fc",
+                "registered": 1385863942,
+                "dob": 1389963641,
+                "phone": "(377)-477-9680",
+                "cell": "(596)-184-7929",
+                "SSN": "198-63-6830",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/59.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "dustin",
+                    "last": "carroll"
+                },
+                "location": {
+                    "street": "2484 avondale ave",
+                    "city": "provo",
+                    "state": "hawaii",
+                    "zip": 34235
+                },
+                "email": "dustin.carroll@example.com",
+                "username": "redfish507",
+                "password": "bluesman",
+                "salt": "rSq2nRdc",
+                "md5": "2f41c728c5da4762e8642083ddd45913",
+                "sha1": "283c82590f4a8673e73f2981354242d98bf461a7",
+                "sha256": "c7d229369e3a8740a6e091808e308e4e296aceb7995c989eec230f848c5c55f5",
+                "registered": 924776271,
+                "dob": 1106983357,
+                "phone": "(037)-104-2720",
+                "cell": "(883)-205-7096",
+                "SSN": "106-31-1560",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/24.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "aaron",
+                    "last": "hudson"
+                },
+                "location": {
+                    "street": "8693 lakeshore rd",
+                    "city": "bakersfield",
+                    "state": "wyoming",
+                    "zip": 55765
+                },
+                "email": "aaron.hudson@example.com",
+                "username": "tinyleopard274",
+                "password": "maxxxx",
+                "salt": "gbeNDsPU",
+                "md5": "66c03c0751e410e460d7271c656d09e1",
+                "sha1": "e23d290b7dbd45a6d9fbf560a53b511e806feb83",
+                "sha256": "9935aa6564af78768b59d733fd5f54c333f9e8406043a235353b36c44f1becaf",
+                "registered": 945752901,
+                "dob": 1015015230,
+                "phone": "(098)-662-6360",
+                "cell": "(764)-965-3419",
+                "SSN": "511-99-1993",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/23.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+                }
+            }
+        }
+    ],
+    "nationality": "US",
+    "seed": "c714b781a69a68400d",
+    "version": "0.8"
+}
